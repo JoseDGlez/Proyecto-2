@@ -1,0 +1,27 @@
+body {
+    background-color:cadetblue;
+    font-family:'Open sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+td{
+    vertical-align: text-top;
+}
+ul{
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+div{
+    color: rgb(6, 8, 32);
+    height: 100%;
+    height: 100%;
+    padding: 20px 10px 20px 40px;
+    margin: 10px;
+    border: 1px solid #999999;
+    background-color: rgb(23, 141, 187);
+    border-radius: 15px;
+    border: solid 2px #999999;
+    border-radius: 15px 0px 15px 0px;
+    box-shadow: 2px 2px 5px rgb(61, 0, 204);
+}
